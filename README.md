@@ -1,2 +1,3 @@
 # hello-world
-hello-world repository
+
+Hello, computer science students double majoring in cyber security and software design. 
